@@ -10,8 +10,7 @@ I love building fast, privacy‑first web experiences and digging into the stori
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
 ## 📚 Projects
-- **Zachari.co** – Hugo‑based personal blog, where I share interviews, insights and more on business.
-  🔗 [URL](https://zachari.co) • 📂 [Source]([https://github.com/zachdev/lumo-blog](https://github.com/math-queiroz/rusty-typewriter))
+- **[Zachari.co](https://zachari.co/)** – Hugo‑based personal blog, where I share interviews, insights and more on business.
 
 ## 📫 Connect with me
 - **Twitter**: [@zacharico](https://x.com/zacharico)  
