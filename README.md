@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Zach – a web‑dev, startup interviewer, and lifelong learner.
+# Hey👋 I'm Zachari
 
 I love building fast, privacy‑first web experiences and digging into the stories behind emerging startups.
 
@@ -10,12 +10,12 @@ I love building fast, privacy‑first web experiences and digging into the stori
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
 ## 📚 Projects
-- **[Zachari.co](https://zachari.co/)** – Hugo‑based personal blog, where I share interviews, insights and more on business.
-
+- **[Zachari.co](https://zachari.co/)** – Hugo‑based personal blog, where I interview startups, publish insights on business and support open source projects.
+  
 ## 📫 Connect with me
 - **Twitter**: [@zacharico](https://x.com/zacharico)  
 - **LinkedIn**: [Zachari](https://linkedin.com/in/zachari-saltmer)  
-
+- **Gravatar**: [ZchSltmr](https://gravatar.com/zchsltmr)
 ---
 
 ⚡ Fun fact: I collect australian opal and gold.
