@@ -14,8 +14,8 @@ I love building fast, privacy‑first web experiences and digging into the stori
   🔗 [Zachari.co](https://zachari.co) • 📂 [Theme]([https://github.com/zachdev/lumo-blog](https://github.com/math-queiroz/rusty-typewriter))
 
 ## 📊 GitHub Stats
-![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachdev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zachdev&layout=compact)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacharico&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zacharico&layout=compact)
 
 ## 📫 Connect with me
 - **Twitter**: [@zacharico](https://x.com/zacharico)  
