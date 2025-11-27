@@ -18,4 +18,4 @@ I love building fast, privacy‑first web experiences and digging into the stori
 - **Gravatar**: [ZchSltmr](https://gravatar.com/zchsltmr)
 ---
 
-⚡ Fun fact: I collect australian opal and gold.
+⚡ Fun fact: I read alot of books.
