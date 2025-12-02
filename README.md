@@ -1,6 +1,6 @@
 # Hey👋 I'm Zachari
 
-I love building fast, privacy‑first web experiences and digging into the stories behind emerging startups.
+I enjoy a whiskey or two, reading, writing and learning new things. 
 
 ## 🛠️ Tech Stack
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
