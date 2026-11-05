@@ -16,7 +16,7 @@ I enjoy a whiskey or two, reading, writing and learning new things.
   
 ## 📫 Connect with me
 - **Twitter**: [@zacharico](https://x.com/zacharico)  
-- **LinkedIn**: [Zachari](https://linkedin.com/in/zachari-saltmer)  
+- **LinkedIn**: [Zachari Saltmer](https://linkedin.com/in/zachari-saltmer)  
 - **Gravatar**: [ZchSltmr](https://gravatar.com/zchsltmr)
 ---
 
